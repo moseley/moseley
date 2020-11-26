@@ -1,4 +1,4 @@
-### Hi, I'm Jeremy 👋
+### Hi there 👋
 
 <!--
 **moseley/moseley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
